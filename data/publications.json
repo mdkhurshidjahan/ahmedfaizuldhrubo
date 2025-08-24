@@ -1,0 +1,110 @@
+[
+  {
+    "id": "stm32-iot",
+    "title": "STM32-Based IoT Framework for Real-Time Environmental Monitoring and Wireless Node Synchronization",
+    "authors": "Ahmed Faizul Haque Dhrubo, et al.",
+    "venue": "arXiv preprint",
+    "year": 2025,
+    "type": "preprint",
+    "link": "https://arxiv.org/abs/2506.17295",
+    "thumbnail": "/papers/stm32-iot.png",
+    "abstract": "This paper presents a comprehensive IoT framework built on STM32 microcontrollers for real-time environmental monitoring with advanced wireless node synchronization capabilities.",
+    "tags": ["IoT", "Environmental Monitoring", "STM32", "Wireless Networks"]
+  },
+  {
+    "id": "lung-pvtv2",
+    "title": "Early Detection of Lung Cancer Using Pyramid Vision Transformer (PVT v2): A Comparative Analysis of Deep Learning Models",
+    "authors": "Ahmed Faizul Haque Dhrubo, et al.",
+    "venue": "ICAIIC 2025",
+    "year": 2025,
+    "type": "conference",
+    "link": "https://ieeexplore.ieee.org/abstract/document/10920787",
+    "thumbnail": "/papers/lung-pvtv2.png",
+    "abstract": "A comprehensive study comparing deep learning models for early lung cancer detection, with Pyramid Vision Transformer v2 achieving state-of-the-art performance.",
+    "tags": ["Medical AI", "Vision Transformers", "Cancer Detection", "Deep Learning"]
+  },
+  {
+    "id": "medcaption",
+    "title": "Optimizing Multimodal Transformers for Medical Image Captioning: Enhancing Automated Descriptions via AI Systems",
+    "authors": "Ahmed Faizul Haque Dhrubo, et al.",
+    "venue": "IEEE IPAS 2025",
+    "year": 2025,
+    "type": "conference",
+    "link": "https://ieeexplore.ieee.org/abstract/document/10924492",
+    "thumbnail": "/papers/medcaption.png",
+    "abstract": "Advanced multimodal transformer architectures for automated medical image captioning, improving clinical workflow efficiency through AI-powered descriptions.",
+    "tags": ["Multimodal AI", "Medical Imaging", "Transformers", "Healthcare AI"]
+  },
+  {
+    "id": "iot-towers",
+    "title": "IoT Towers of Resilience: Weathering Climate Extremes in Vulnerable Ecosystems",
+    "authors": "Ahmed Faizul Haque Dhrubo, et al.",
+    "venue": "MMAR 2024, Poland",
+    "year": 2024,
+    "type": "conference",
+    "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=qt9Wg-YAAAAJ&citation_for_view=qt9Wg-YAAAAJ:u-x6o8ySG0sC",
+    "thumbnail": "/papers/iot-towers.png",
+    "abstract": "Innovative IoT infrastructure designed to withstand extreme climate conditions while monitoring vulnerable ecosystems in real-time.",
+    "tags": ["Climate Resilience", "IoT", "Environmental Monitoring", "Ecosystem Protection"]
+  },
+  {
+    "id": "air-quality",
+    "title": "Portable & Cost-Effective System for Real-Time Air Quality Monitoring and Environmental Impact Assessment",
+    "authors": "Ahmed Faizul Haque Dhrubo, et al.",
+    "venue": "arXiv preprint",
+    "year": 2025,
+    "type": "preprint",
+    "link": "https://arxiv.org/abs/2506.22458",
+    "thumbnail": "/papers/air-quality.png",
+    "abstract": "Development of an affordable, portable air quality monitoring system for comprehensive environmental impact assessment in urban and rural settings.",
+    "tags": ["Air Quality", "Environmental Monitoring", "IoT", "Public Health"]
+  },
+  {
+    "id": "carkoto",
+    "title": "CarKoto: AI-Powered Platform for Transparent Used Car Price Prediction in Bangladesh",
+    "authors": "Ahmed Faizul Haque Dhrubo, et al.",
+    "venue": "ICAIIC 2025",
+    "year": 2025,
+    "type": "conference",
+    "link": "https://ieeexplore.ieee.org/abstract/document/10920683",
+    "thumbnail": "/papers/carkoto.png",
+    "abstract": "Machine learning-driven platform providing transparent and accurate used car price predictions tailored for the Bangladeshi automotive market.",
+    "tags": ["Machine Learning", "Price Prediction", "Automotive", "Fintech"]
+  },
+  {
+    "id": "satellite-seg",
+    "title": "Multi-Model AI-Driven Satellite Image Segmentation for Urbanization & Environmental Degradation Analysis",
+    "authors": "Ahmed Faizul Haque Dhrubo, et al.",
+    "venue": "IEEE IPAS 2025",
+    "year": 2025,
+    "type": "conference",
+    "link": "https://ieeexplore.ieee.org/abstract/document/10924556",
+    "thumbnail": "/papers/satellite-seg.png",
+    "abstract": "Advanced satellite image segmentation techniques using multiple AI models to analyze urban development patterns and environmental degradation.",
+    "tags": ["Satellite Imagery", "Computer Vision", "Urban Planning", "Environmental Analysis"]
+  },
+  {
+    "id": "urban-dev",
+    "title": "Multi-Model AI of Satellite Image Processing for Enhanced Urban Development Analysis",
+    "authors": "Ahmed Faizul Haque Dhrubo, et al.",
+    "venue": "CCISP 2024",
+    "year": 2024,
+    "type": "conference",
+    "link": "https://ieeexplore.ieee.org/abstract/document/10765510",
+    "thumbnail": "/papers/urban-dev.png",
+    "abstract": "Comprehensive satellite image processing framework using multiple AI models for detailed urban development analysis and planning.",
+    "tags": ["Urban Development", "Satellite Processing", "AI Models", "City Planning"]
+  },
+  {
+    "id": "cooler",
+    "title": "Harnessing Technology for Climate Resilience: Eco-friendly Cooler",
+    "authors": "Ahmed Faizul Haque Dhrubo, et al.",
+    "venue": "ICESA 2024",
+    "year": 2024,
+    "type": "conference",
+    "link": "https://avestia.com/ICESA2024_Proceedings/files/paper/ICESA_132.pdf",
+    "thumbnail": "/papers/cooler.png",
+    "abstract": "Innovative eco-friendly cooling system design leveraging advanced technologies for sustainable climate resilience solutions.",
+    "tags": ["Climate Tech", "Sustainable Cooling", "Green Technology", "Energy Efficiency"]
+  }
+]
